@@ -1,0 +1,16 @@
+{
+	"_metadata": {
+		"module": {
+			"title": "projectTask Widget: State One View"
+		}
+	},
+	"_data": {
+		"serviceDataList": [
+			{
+				"id": "projectTask",
+				"status": "ok",
+				"viewName": "projectTaskStateOneView"
+			}
+		]
+	}
+}
